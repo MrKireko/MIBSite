@@ -8,7 +8,7 @@ body {
 }
 
 #body {
-    padding-top: 50px;
+    padding-top: 45px;
     padding-left: 30px;
     background-color: rgb(255, 254, 253);
     height: 600px;
@@ -23,5 +23,28 @@ body {
     font-family: sans-serif;
     font-weight: 100;
     font-size: 50px;
+    margin-top: -10px;
     color: #999;
+}
+
+#subtitle {
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    margin-top: -10px;
+    color: #999;
+}
+
+#cvs {
+    border: 1px solid black;
+    margin-top: 5px;
+    width: 475px;
+    height: 500px;
+}
+
+#logo {
+    width: 90px;
+    float: right;
+    margin-top: -27px;
+    margin-right: 40px;
 }
